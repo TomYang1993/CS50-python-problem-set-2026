@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# generated output artifacts (not source)
+pset6/scourgify/*.csv
+!pset6/scourgify/before.csv
+pset6/shirt/*.jpg
+pset6/shirt/*.jpeg
+pset6/shirt/*.png
+!pset6/shirt/shirt.png
+pset8/shirtificate/*.pdf
+pset8/shirtificate/shirtificate.png
